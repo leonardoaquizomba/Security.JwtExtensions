@@ -9,7 +9,7 @@
     <PackageReference Include="Bogus" Version="34.0.2" />
     <PackageReference Include="NetDevPack.Security.Jwt.AspNetCore" Version="7.0.0" />
     <PackageReference Include="NetDevPack.Security.Jwt.Core" Version="7.0.0" />
-    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.25.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.34.0" />
   </ItemGroup>
 
   <ItemGroup Condition="'$(TargetFramework)' == 'net6.0'">
